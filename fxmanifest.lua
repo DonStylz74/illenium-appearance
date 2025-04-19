@@ -93,4 +93,6 @@ files {
   "web/dist/assets/*.js"
 }
 
+provides { "esx_skin", "skinchanger" }
+
 ui_page "web/dist/index.html"
